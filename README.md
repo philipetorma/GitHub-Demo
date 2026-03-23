@@ -30,7 +30,7 @@ Each team member must:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-repo-link.git
+git clone https://github.com/philipetorma/GitHub-Demo.git
 
 # 2. Go to project folder
 cd your-project-folder
